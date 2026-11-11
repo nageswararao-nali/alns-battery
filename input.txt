@@ -1,0 +1,20 @@
+StringID	x	y	demand	ReadyTime	DueDate	ServiceTime	ChargerType	BreakPoint1	BP1Time	BreakPoint2	BP2Time	Full	FTime
+D0	77.59	78.35	0	0	10	0	NA	0	0	0	0	0	0
+C0	12.44	47.61	235	0	10	0.5	NA	0	0	0	0	0	0
+C1	108.2	93.64	141	0	10	0.5	NA	0	0	0	0	0	0
+C2	58.51	24.22	249	0	10	0.5	NA	0	0	0	0	0	0
+C3	116.26	13.76	181	0	10	0.5	NA	0	0	0	0	0	0
+C4	113.56	85.73	132	0	10	0.5	NA	0	0	0	0	0	0
+C5	5.09	69.91	190	0	10	0.5	NA	0	0	0	0	0	0
+C6	89.27	58.94	226	0	10	0.5	NA	0	0	0	0	0	0
+C7	78.54	57.16	129	0	10	0.5	NA	0	0	0	0	0	0
+C8	111.56	51.2	225	0	10	0.5	NA	0	0	0	0	0	0
+C9	11.05	72.52	208	0	10	0.5	NA	0	0	0	0	0	0
+S0	93.39	10.8	0	0	10	0	fast	13600	0.31	1600	0.08	800	0.12
+S1	8.9	10.98	0	0	10	0	fast	13600	0.31	1600	0.08	800	0.12
+
+Q battery capacity	/16000/
+C Vehicle load capacity	/600/
+a alpha in energy	/103.80847125/
+b beta in energy	/0.122625/
+v average Velocity	/40/
